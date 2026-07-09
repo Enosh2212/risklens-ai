@@ -1,0 +1,13 @@
+﻿pandas
+numpy
+scikit-learn
+sqlalchemy
+pyodbc
+python-dotenv
+streamlit
+plotly
+xgboost
+shap
+joblib
+matplotlib
+openpyxl

@@ -1,0 +1,21 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/local_db/*.db
+*.sqlite
+*.sqlite3
+models/
+models/*.joblib
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+
+
+# Logs
+*.log
+codex-*.log
